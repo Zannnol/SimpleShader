@@ -1,0 +1,17 @@
+# VSCode
+.VSCode/
+
+# Systems
+.DS_Store
+Thumbs.db
+
+# Windows symlinks / cache
+desktop.ini
+
+# Logs or temp folders
+*.log
+*.tmp
+
+# System folder
+.idea/
+*.iml
